@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujay Kumar</h1>
-<h3 align="center">IT Software Engineer | Full-Stack Developer</h3>
+<h3 align="center">IT Software Engineer | Full-Stack Developer (Angular + Spring Boot)</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/GSujaykumar" target="_blank">
@@ -11,49 +11,84 @@
 
 ## 💫 About Me
 
-I’m an **IT Software Engineer** with a strong focus on building **scalable, secure, and high-performance web applications**.
+I’m an **IT Software Engineer** experienced in building **scalable, secure, and high-performance enterprise web applications**.
 
-I work primarily with **Angular on the frontend** and **Spring Boot on the backend**, designing clean REST APIs, implementing authentication & authorization, and integrating databases efficiently.
+I specialize in **Angular-based frontend development** and **Spring Boot-driven backend systems**, with hands-on experience in **REST API design**, **authentication & authorization**, and **database-centric application development**.
 
-I enjoy solving complex problems, writing maintainable code, and continuously improving system performance and user experience.
+I enjoy working on real-world business problems, improving system reliability, and writing clean, maintainable, and production-ready code.
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 Core Competencies (What Recruiters Care About)
 
 - Full-Stack Development (Angular + Spring Boot)
-- REST API Design & Integration
-- Authentication & Authorization (JWT, Spring Security)
-- Database Design & Optimization (MySQL)
-- Microservices Architecture (Basics)
-- Clean Code & Best Practices
-- Performance Optimization
-- Version Control & Collaboration (Git, GitHub)
+- Enterprise REST API Design & Integration
+- Secure Authentication & Authorization (JWT, Spring Security)
+- Database-Driven Application Development
+- Microservices Architecture (Foundational)
+- Performance Tuning & Optimization
+- Clean Code, SOLID Principles
+- Debugging, Logging & Monitoring
+- Version Control & Team Collaboration (Git, GitHub)
 
 ---
 
-## 💻 Tech Stack
+## 🏗️ Backend Engineering Skills
 
-### 🚀 Backend
+- Java (OOP, Collections, Exception Handling)
+- Spring Boot, Spring MVC
+- Spring Security (JWT, Role-Based Access Control)
+- Hibernate / JPA
+- DTO-Entity Mapping
+- RESTful API Standards
+- Validation & Global Exception Handling
+- Pagination, Sorting & Filtering
+- Transaction Management
+- API Performance Optimization
+
+---
+
+## 🎨 Frontend Engineering Skills
+
+- Angular (Standalone APIs, Routing, Guards)
+- Angular Material & UI Component Design
+- TypeScript
+- Reactive Forms & Validation
+- State & Data Flow Handling
+- Responsive UI Design
+- React (Basics)
+- HTML5, CSS3, JavaScript
+- Tailwind CSS, Bootstrap
+
+---
+
+## 🗄️ Database & Data Handling
+
+- MySQL
+- Database Schema Design
+- Indexing & Query Optimization
+- Writing Complex SQL Queries
+- Handling Large Datasets
+- Pagination & Lazy Loading
+
+---
+
+## 🔐 Security & Best Practices
+
+- JWT Authentication & Authorization
+- Role-Based Access Control (RBAC)
+- Password Encryption (BCrypt)
+- Secure API Design
+- Input Validation & Data Sanitization
+
+---
+
+## 🛠 Tools, Build & DevOps
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Angular Material](https://img.shields.io/badge/Angular_Material-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🛠 Tools & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -85,4 +120,4 @@ I enjoy solving complex problems, writing maintainable code, and continuously im
 ---
 
 ### ⚡ Fun Fact
-I enjoy turning complex requirements into clean, efficient, and scalable solutions.
+I enjoy turning complex business requirements into clean, secure, and scalable software solutions.

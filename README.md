@@ -69,6 +69,18 @@ Hi 👋 I’m G. Sujay Kumar, a Junior Software Engineer with 1.5 years of hands
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GSujaykumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+  steps:
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+          
+
 ---
 [![](https://visitcount.itsvg.in/api?id=GSujaykumar&icon=0&color=0)](https://visitcount.itsvg.in)
 

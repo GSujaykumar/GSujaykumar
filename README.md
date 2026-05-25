@@ -1,87 +1,114 @@
-# 💫 About Me:
-Hi 👋 I’m G. Sujay Kumar, a Junior Software Engineer with 1.5 years of hands-on experience as a Full-Stack Java Developer.<br><br>I specialize in building scalable, secure, and user-centric web applications using Java, Spring Boot, and Angular. I have practical experience in designing RESTful APIs, implementing authentication & authorization (JWT, Spring Security), and integrating relational databases like MySQL.<br><br>Currently, I’m working at Varsity Edification Management Private Limited, where I actively contribute to developing and maintaining enterprise-level applications, improving system performance, and delivering reliable software solutions aligned with business requirements.<br><br>I’m passionate about clean code, problem-solving, and continuous learning, and I enjoy transforming complex requirements into efficient, maintainable solutions.
+# Hey, I'm Sujay Kumar 👋
 
+### Java Backend Engineer | Microservices Architect | AI-Integrated Systems
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GSujaykumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujaykumargaddam18@gmail.com) 
+I design and build **production-grade distributed backend systems** in Java/Spring Boot
+that integrate AI capabilities at the infrastructure layer — not as an afterthought,
+but as a core architectural capability.
 
-# 💻 Tech Stack:
+---
 
-### Backend
+## 🔧 What I Build
+
+```text
+Backend Core      ██████████████████████░░   Java 17+ · Spring Boot 3.x · Spring Cloud
+Architecture      ████████████████████░░░░   Microservices · Event-Driven · gRPC · GraphQL
+AI Integration    ██████████████████░░░░░░   Spring AI · RAG · LLM Pipelines
+Data & Messaging  █████████████████░░░░░░░   PostgreSQL · Redis · Kafka · RabbitMQ
+Infrastructure    ████████████████░░░░░░░░   Docker · Kubernetes · CI/CD · Observability
+```
+
+---
+
+## 🏗️ Featured Projects
+
+| Project | What It Proves | Stack |
+|---------|---------------|-------|
+| [**ObitoStore**](https://github.com/GSujaykumar/Ecommerce) | 9-service microservices ecosystem with AI chatbot, gRPC, GraphQL BFF, event-driven order processing | Java 17, Spring Boot 3.2, Spring AI, Kafka, Redis, gRPC, GraphQL, Kubernetes |
+| [**Spring Boot APIs**](https://github.com/GSujaykumar/SpringBootAPIS) | Clean REST API design patterns with Spring Boot | Java, Spring Boot, JPA |
+| [**TheInfoFeed**](https://github.com/GSujaykumar/TheInfoFeed) | Content aggregation & API integration | Java, Spring Boot |
+| [**Problem Solving**](https://github.com/GSujaykumar/PROBLEMSOLVING) | Data Structures & Algorithms — interview-ready | Java |
+
+---
+
+## 📐 Engineering Philosophy
+
+- **Distributed systems should be intelligent by default** — I integrate ML models
+  directly into service layers for real-time decision-making (Spring AI + RAG)
+- **Scalability is a design constraint, not an afterthought** — every system I
+  build uses event-driven patterns (Kafka/RabbitMQ) and circuit breakers (Resilience4j)
+- **Protocol matters** — I choose gRPC for internal service calls and GraphQL
+  for client-facing aggregation because one protocol doesn't fit all
+
+---
+
+## 🛠️ Core Stack
+
+### Backend & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### Frontend
+### AI/ML & Architecture
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+
+### Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Infrastructure & DevOps
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Frontend (Full-Stack Capability)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-4ED1C5?style=for-the-badge&logo=chakraui&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white)
-
-### Runtime & Build Tools
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Database & DevOps
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-
-### Tools & Monitoring
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white)
-
-### Design & Portfolio
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GSujaykumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GSujaykumar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GSujaykumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GSujaykumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GSujaykumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-  steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-          
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GSujaykumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GSujaykumar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GSujaykumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSujaykumar&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GSujaykumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujaykumar-gaddam-a660693a0/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujaykumargaddam18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GSujaykumar)
+
+---
+
+*Currently building: AI-powered backend systems at Varsity Edification Management | Hyderabad, India 🇮🇳*
+
+[![](https://visitcount.itsvg.in/api?id=GSujaykumar&icon=0&color=6)](https://visitcount.itsvg.in)

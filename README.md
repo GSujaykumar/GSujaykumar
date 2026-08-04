@@ -1,114 +1,117 @@
-# Hey, I'm Sujay Kumar 👋
+<!--
+  Profile README for https://github.com/GSujaykumar
+  Special repo name must match username for this to appear on the profile.
+-->
 
-### Java Backend Engineer | Microservices Architect | AI-Integrated Systems
+<div align="center">
 
-I design and build **production-grade distributed backend systems** in Java/Spring Boot
-that integrate AI capabilities at the infrastructure layer — not as an afterthought,
-but as a core architectural capability.
+# Sujay Kumar
+
+**Software Engineer (Backend)** · Java · Spring Boot · Microservices  
+Hyderabad, India · [Varsity Edification Management](https://github.com/GSujaykumar)
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujaykumar-gaddam-a660693a0/)
+[![Email](https://img.shields.io/badge/Email-sujaykumargaddam18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujaykumargaddam18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-GSujaykumar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GSujaykumar)
+
+</div>
 
 ---
 
-## 🔧 What I Build
+### About
+
+I build **production backend systems** in **Java / Spring Boot** — secure REST APIs, microservices, and finance-ops automation that people actually run every day.
+
+At Varsity I own microservices on **Azure** (Docker · Jenkins) with **Prometheus / Grafana / Zipkin**, plus an **Oracle Fusion** ops platform that turns finance support from scattered Excel into repeatable SQL, API, and Teams workflows.
 
 ```text
-Backend Core      ██████████████████████░░   Java 17+ · Spring Boot 3.x · Spring Cloud
-Architecture      ████████████████████░░░░   Microservices · Event-Driven · gRPC · GraphQL
-AI Integration    ██████████████████░░░░░░   Spring AI · RAG · LLM Pipelines
-Data & Messaging  █████████████████░░░░░░░   PostgreSQL · Redis · Kafka · RabbitMQ
-Infrastructure    ████████████████░░░░░░░░   Docker · Kubernetes · CI/CD · Observability
+Day job      Java 17 · Spring Boot · Microservices · JWT / Spring Security
+Cloud & CI   Azure · Docker · Jenkins
+Observe      Prometheus · Grafana · Zipkin
+Data         MySQL · PostgreSQL · Hibernate / Spring Data JPA
+Ops          Oracle Fusion REST · Teams Adaptive Cards · PowerShell · n8n
 ```
 
 ---
 
-## 🏗️ Featured Projects
+### Featured work
 
-| Project | What It Proves | Stack |
-|---------|---------------|-------|
-| [**ObitoStore**](https://github.com/GSujaykumar/Ecommerce) | 9-service microservices ecosystem with AI chatbot, gRPC, GraphQL BFF, event-driven order processing | Java 17, Spring Boot 3.2, Spring AI, Kafka, Redis, gRPC, GraphQL, Kubernetes |
-| [**Spring Boot APIs**](https://github.com/GSujaykumar/SpringBootAPIS) | Clean REST API design patterns with Spring Boot | Java, Spring Boot, JPA |
-| [**TheInfoFeed**](https://github.com/GSujaykumar/TheInfoFeed) | Content aggregation & API integration | Java, Spring Boot |
-| [**Problem Solving**](https://github.com/GSujaykumar/PROBLEMSOLVING) | Data Structures & Algorithms — interview-ready | Java |
-
----
-
-## 📐 Engineering Philosophy
-
-- **Distributed systems should be intelligent by default** — I integrate ML models
-  directly into service layers for real-time decision-making (Spring AI + RAG)
-- **Scalability is a design constraint, not an afterthought** — every system I
-  build uses event-driven patterns (Kafka/RabbitMQ) and circuit breakers (Resilience4j)
-- **Protocol matters** — I choose gRPC for internal service calls and GraphQL
-  for client-facing aggregation because one protocol doesn't fit all
+| Project | What it does | Stack |
+|:--------|:-------------|:------|
+| [**Spring Boot Microservices**](https://github.com/GSujaykumar) | Production services at Varsity — auth, data access, CI/CD, monitoring | Java · Spring Boot · Azure · Docker · Jenkins · Prometheus · Grafana · Zipkin |
+| [**Oracle Fusion Ops Platform**](https://github.com/GSujaykumar/-Oracel-Fusion-WorkSpace) | Drop-folder workspace: Segment/GL/Remarks SQL, API Runner, mail/n8n, local AI helper | Java 17 · Spring Boot · POI · PowerShell · n8n · Ollama |
+| [**Daily Collection Checker**](https://github.com/GSujaykumar/-Oracel-Fusion-WorkSpace) | Scheduled MySQL validation → **one Teams Adaptive Card / day** when issues exist | Spring Boot · MySQL · Teams · Task Scheduler |
+| [**Ecommerce (ObitoStore)**](https://github.com/GSujaykumar/Ecommerce) | Multi-service commerce backend (learning / portfolio depth) | Java · Spring Boot · Kafka · Redis |
+| [**Spring Boot APIs**](https://github.com/GSujaykumar/SpringBootAPIS) | Clean REST + JPA patterns | Java · Spring Boot · JPA |
+| [**DSA / Problem Solving**](https://github.com/GSujaykumar/PROBLEMSOLVING) | Interview-ready Java practice | Java |
 
 ---
 
-## 🛠️ Core Stack
+### How I work
 
-### Backend & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### AI/ML & Architecture
-![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
-
-### Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Infrastructure & DevOps
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### Frontend (Full-Stack Capability)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- **Ship backends that ops can trust** — clear outputs, health checks, and launchers operators can re-run.
+- **Secure by default** — JWT + Spring Security on service boundaries.
+- **Observability is part of the build** — metrics, dashboards, and tracing (Prometheus · Grafana · Zipkin), not a late add-on.
+- **Automate the boring finance path** — Excel/OCR → SQL, Fusion REST runners, Teams alerts that fire only when something is wrong.
 
 ---
 
-## 📊 GitHub Stats
+### Core stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GSujaykumar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Microservices-111111?style=flat-square" alt="Microservices" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0A0A0A?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
 </p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=GSujaykumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Zipkin-3B1E77?style=flat-square" alt="Zipkin" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSujaykumar&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Oracle%20Fusion-C74634?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Fusion" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GSujaykumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
+### GitHub stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GSujaykumar&show_icons=true&theme=transparent&hide_border=true&title_color=111111&text_color=333333&icon_color=6DB33F&ring_color=6DB33F" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSujaykumar&layout=compact&theme=transparent&hide_border=true&title_color=111111&text_color=333333" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=GSujaykumar&theme=default&hide_border=true&background=FFFFFF00&ring=6DB33F&fire=ED8B00&currStreakLabel=111111" alt="GitHub streak" />
+</div>
 
 ---
 
-## 📫 Let's Connect
+### Let’s connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujaykumar-gaddam-a660693a0/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujaykumargaddam18@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GSujaykumar)
+Open to **backend / Java Spring Boot** roles — microservices, cloud CI/CD, and systems that keep finance & ops moving.
 
----
+| | |
+|:--|:--|
+| **Email** | [sujaykumargaddam18@gmail.com](mailto:sujaykumargaddam18@gmail.com) |
+| **LinkedIn** | [sujaykumar-gaddam](https://www.linkedin.com/in/sujaykumar-gaddam-a660693a0/) |
+| **Phone** | +91 9347298955 |
+| **Location** | Hyderabad, India |
 
-*Currently building: AI-powered backend systems at Varsity Edification Management | Hyderabad, India 🇮🇳*
+<div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=GSujaykumar&icon=0&color=6)](https://visitcount.itsvg.in)
+⭐️ From [GSujaykumar](https://github.com/GSujaykumar)
+
+</div>
